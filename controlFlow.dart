@@ -30,5 +30,16 @@ void main(){
    var lister = [1,2,4,9,5];
    for(var i in lister){
     print('$i');
-   }
+   } 
+   // do while
+    void main()  
+{  
+ var a = 1;  
+ var maxnum = 10;  
+do  
+    {                
+       print("The value is: ${a}");  
+       a = a+1;                                    
+       }while(a<maxnum);  
+}  
 }
