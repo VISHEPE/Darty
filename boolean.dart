@@ -1,6 +1,6 @@
 void main(){
-bool isTsbGreen = false;
-bool isAccepted = false;
+bool isTsbGreen = true;
+bool isAccepted = true;
 
 if(isTsbGreen){
   print("Rejected");
